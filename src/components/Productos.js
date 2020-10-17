@@ -21,12 +21,22 @@ const Productos = () => {
 
   //Obtener el state
   const productos = useSelector(state => state.productos.productos);
-  console.log(productos)
+  const error = useSelector(state => state.productos.error);
+  const cargando = useSelector (state => state.productos.loading);
 
 
     return (
         <Fragment>
           <h2 className="text-center my-5">Listado de Productos</h2>
+
+
+
+          {error ? <p className="font-weight-bold alert alert-danger text-center mt-4"> Hubo un error</p> : null}
+
+          {cargando ?           <div class="spinner">
+  <div class="double-bounce1"></div>
+  <div class="double-bounce2"></div>
+</div> : null}
 
 
           <table className="table table-striped">

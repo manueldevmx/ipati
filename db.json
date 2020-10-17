@@ -1,74 +1,9 @@
 {
   "productos": [
     {
-      "id": 1,
-      "nombre": "Queso ahumado fresco Tradicional",
-      "precio": "31111"
-    },
-    {
-      "id": 2,
-      "nombre": "Queso Oaxaca Gourmet",
-      "precio": "1"
-    },
-    {
-      "nombre": "Salsa macha con cacahuate",
-      "precio": "300",
-      "id": 3
-    },
-    {
-      "nombre": "Bolsa de Macrame",
-      "precio": "200",
-      "id": 4
-    },
-    {
-      "nombre": "Mermelada Artesanal",
-      "precio": "200",
-      "id": 5
-    },
-    {
-      "nombre": "Queso ahumado Prueba API",
-      "precio": 80,
-      "id": 6
-    },
-    {
-      "nombre": "Mole artesanal",
-      "precio": 120,
-      "id": 7
-    },
-    {
-      "nombre": "pulsera de cafe",
-      "precio": 55,
-      "id": 8
-    },
-    {
-      "nombre": "Nieve Artesanal de Elote",
-      "precio": 80,
-      "id": 9
-    },
-    {
-      "nombre": "Nieve Artesanal de Coco",
-      "precio": 55,
-      "id": 10
-    },
-    {
-      "nombre": "qq",
-      "precio": 20,
-      "id": 11
-    },
-    {
-      "nombre": "Nieve Artesanal de Elote",
-      "precio": 80,
-      "id": 12
-    },
-    {
       "nombre": "Queso ahumado",
-      "precio": 80,
-      "id": 13
-    },
-    {
-      "nombre": "Queso ahumado Prueba API",
-      "precio": 100,
-      "id": 14
+      "precio": 20,
+      "id": 9
     }
   ]
 }

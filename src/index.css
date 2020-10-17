@@ -8,6 +8,10 @@
                     font-size: 16px;
                 }
                 
+                a {
+                    color: #ffffff;
+                }
+                
                 h1 a {
                     font-size: 1.8rem;
                     color: #b38e5d;
@@ -22,8 +26,20 @@
                     background: #13322b;
                 }
                 
+                ul {
+                    color: #ffffff;
+                }
+                
+                .navbar__header {
+                    color: #ffffff;
+                }
+                
                 .container h1 {
                     color: #d4c19c;
+                }
+                
+                .container {
+                    justify-content: center;
                 }
                 
                 .nuevo-post {
@@ -94,6 +110,10 @@
                 
                 .confirmButtonColor {
                     background-color: #d4c19c;
+                }
+                
+                .btn__unete {
+                    background-color: #285c4d;
                 }
                 
                 .spinner {

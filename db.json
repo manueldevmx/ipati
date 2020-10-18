@@ -2,12 +2,12 @@
   "productos": [
     {
       "nombre": "Queso ahumado",
-      "precio": "35",
+      "precio": "90",
       "id": 10
     },
     {
       "nombre": "Queso ahumado",
-      "precio": 85,
+      "precio": 56,
       "id": 11
     }
   ]
